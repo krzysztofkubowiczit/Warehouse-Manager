@@ -1,0 +1,4 @@
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\Warehouse.AssemblyInfoInputs.cache
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\Warehouse.AssemblyInfo.cs
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\Warehouse.csproj.CoreCompileInputs.cache

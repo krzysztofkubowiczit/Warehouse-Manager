@@ -1,0 +1,15 @@
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\bin\Debug\net8.0\WarehouseManager.exe
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\bin\Debug\net8.0\WarehouseManager.deps.json
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\bin\Debug\net8.0\WarehouseManager.runtimeconfig.json
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\bin\Debug\net8.0\WarehouseManager.dll
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\bin\Debug\net8.0\WarehouseManager.pdb
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\WarehouseManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\WarehouseManager.AssemblyInfoInputs.cache
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\WarehouseManager.AssemblyInfo.cs
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\WarehouseManager.csproj.CoreCompileInputs.cache
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\WarehouseManager.dll
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\refint\WarehouseManager.dll
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\WarehouseManager.pdb
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\WarehouseManager.genruntimeconfig.cache
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\ref\WarehouseManager.dll
+C:\Users\kkubo\source\repos\Warehouse Manager\Warehouse\obj\Debug\net8.0\WarehouseManager.sourcelink.json
